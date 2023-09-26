@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color:lawngreen;
+}
+
+div {
+    background-color: white;
+    width: 60%;
+    height: 60%;
+    display: inline-block;
+    margin-left: 18%;
+    margin-top: 50px;
+    border-color: black;
+    border-style: solid;
+    padding: 20px;
+}
+
+h1{
+    text-align:center;
+    
+}
+h5 {
+    margin-top: 20px;
+}
+
+  
+
+.inputbox,select,button {
+    padding: 5px;
+    width: 100%;
+}
+
